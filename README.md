@@ -3,6 +3,12 @@ photoshop-hello-world
 
 Usage of Git with Photoshop, see "Using Git with Photoshop Documents" at https://www.youtube.com/watch?v=wzxvKseMsnY
 
+## Clone this repository
+
+```
+git clone https://github.com/vanHeemstraDesigns/photoshop-hello-world.git
+```
+
 ## Add files to the local Git repository
 
 ```
