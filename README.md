@@ -3,7 +3,7 @@ photoshop-hello-world
 
 ## Using Git
 
-See "Using-Git.md" at 
+See "Using-Git.md" at https://github.com/vanHeemstraDesigns/photoshop-hello-world/blob/master/Using-Git.md
 
 ## Basic Shapes
 
