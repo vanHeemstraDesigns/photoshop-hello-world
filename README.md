@@ -1,52 +1,14 @@
 photoshop-hello-world
 # Photoshop - Hello World
 
-Usage of Git with Photoshop, see "Using Git with Photoshop Documents" at https://www.youtube.com/watch?v=wzxvKseMsnY
+## Using Git
 
-## Clone this repository
+See "Using-Git.md" at 
 
-```
-git clone https://github.com/vanHeemstraDesigns/photoshop-hello-world.git
-```
+## Basic Shapes
 
-## Add files to the local Git repository
+### Cylinder
 
-```
-git add <filename here> 
-```
+See "Basic Shape - Cylinder" at https://github.com/vanHeemstraDesigns/photoshop-hello-world/blob/master/Basic-Shape-Cylinder.md
 
-## Check Git status
 
-```
-git status
-```
-
-## Commit files to the local Git repository
-
-```
-git commit -m "<some commit message here>"
-```
-
-## Show all commits
-
-```
-git log
-```
-
-## Revert to a previous commit
-
-```
-git checkout <unique id of previous commit here>
-```
-
-## Pull latest changes from remote Git repository
-
-```
-git pull
-```
-
-## Push commited changes to the remote Git repository
-
-```
-git push
-```
