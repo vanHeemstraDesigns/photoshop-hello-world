@@ -7,7 +7,7 @@ See "Using-Git.md" at https://github.com/vanHeemstraDesigns/photoshop-hello-worl
 
 ## Basic Forms
 
-"Think in Form (3D), not Shape (2)" - by https://www.ctrlpaint.com/videos/form-not-shape
+"Think in Form (3D), not Shape (2D)" - by https://www.ctrlpaint.com/videos/form-not-shape
 
 ### Cylinder
 
