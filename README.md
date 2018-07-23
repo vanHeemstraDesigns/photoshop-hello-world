@@ -11,6 +11,6 @@ See "Using-Git.md" at https://github.com/vanHeemstraDesigns/photoshop-hello-worl
 
 ### Cylinder
 
-See "Basic Form - Cylinder" at https://github.com/vanHeemstraDesigns/photoshop-hello-world/blob/master/Basic-Form-Cylinder.md
+See "Basic Form - Cylinder" at https://github.com/vanHeemstraDesigns/photoshop-hello-world/blob/master/forms/cylinder/README.md
 
 
